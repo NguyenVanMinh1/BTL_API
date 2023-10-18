@@ -1,0 +1,57 @@
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.deps.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.runtimeconfig.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\refint\BUS.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.genruntimeconfig.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\ref\BUS.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\DAL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\MODEL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.deps.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.runtimeconfig.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\BUS.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\DAL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\DAL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\bin\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\refint\BUS.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\BUS.genruntimeconfig.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\BUS\obj\Debug\net6.0\ref\BUS.dll
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\BUS.deps.json
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\BUS.runtimeconfig.json
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\BUS.dll
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\BUS.pdb
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\DAL.dll
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\MODEL.dll
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\DAL.pdb
+D:\API\Nguyễn Văn Minh\BUS\bin\Debug\net6.0\MODEL.pdb
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.dll
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\refint\BUS.dll
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.pdb
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\BUS.genruntimeconfig.cache
+D:\API\Nguyễn Văn Minh\BUS\obj\Debug\net6.0\ref\BUS.dll

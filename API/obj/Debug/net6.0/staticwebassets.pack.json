@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\OK\\iphone-14-pro-max-tim.png",
+      "PackagePath": "staticwebassets\\images\\OK\\iphone-14-pro-max-tim.png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\OK\\z4267721839926_478ed4da75bd53297cbf34e055a7f8c3.jpg",
+      "PackagePath": "staticwebassets\\images\\OK\\z4267721839926_478ed4da75bd53297cbf34e055a7f8c3.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\1185b975-5844-2800-a042-00192b0b9b9c.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\1185b975-5844-2800-a042-00192b0b9b9c.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\340488199_165330436447335_3425704722954089531_n.png",
+      "PackagePath": "staticwebassets\\images\\Product\\340488199_165330436447335_3425704722954089531_n.png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\340628482_755829622922293_6102087262054770686_n.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\340628482_755829622922293_6102087262054770686_n.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\Screenshot (230).png",
+      "PackagePath": "staticwebassets\\images\\Product\\Screenshot (230).png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\TNS03901.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\TNS03901.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\avt-s20-ultra-gray-300x300.png",
+      "PackagePath": "staticwebassets\\images\\Product\\avt-s20-ultra-gray-300x300.png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\b8774425-6c8c-3100-0f9f-001947f4c602.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\b8774425-6c8c-3100-0f9f-001947f4c602.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\ff738f34-d2af-5a00-952a-0018e915d6ed.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\ff738f34-d2af-5a00-952a-0018e915d6ed.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\images (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\images (1).jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\images.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\iphone-11-tim.png",
+      "PackagePath": "staticwebassets\\images\\Product\\iphone-11-tim.png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\iphone-14-pro-max-tim.png",
+      "PackagePath": "staticwebassets\\images\\Product\\iphone-14-pro-max-tim.png"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\thumb_Note20_Ultra5G-300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\thumb_Note20_Ultra5G-300x300.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\z3698855164156_218c70c28b7de0d7a519e4a97bbf48f6.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\z3698855164156_218c70c28b7de0d7a519e4a97bbf48f6.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\Product\\z4267721839926_478ed4da75bd53297cbf34e055a7f8c3.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\z4267721839926_478ed4da75bd53297cbf34e055a7f8c3.jpg"
+    },
+    {
+      "Id": "D:\\API\\Nguyễn Văn Minh\\API\\wwwroot\\images\\as\\340488199_165330436447335_3425704722954089531_n.png",
+      "PackagePath": "staticwebassets\\images\\as\\340488199_165330436447335_3425704722954089531_n.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API_ADMIN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API_ADMIN.props",
+      "PackagePath": "build\\API_ADMIN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API_ADMIN.props",
+      "PackagePath": "buildMultiTargeting\\API_ADMIN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API_ADMIN.props",
+      "PackagePath": "buildTransitive\\API_ADMIN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

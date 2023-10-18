@@ -1,0 +1,42 @@
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.deps.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.runtimeconfig.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.csproj.AssemblyReference.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfoInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfo.cs
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.csproj.CoreCompileInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\refint\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.genruntimeconfig.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\ref\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.deps.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.runtimeconfig.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\bin\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.csproj.AssemblyReference.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfoInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfo.cs
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.csproj.CoreCompileInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\refint\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\MODEL.genruntimeconfig.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\MODEL\obj\Debug\net6.0\ref\MODEL.dll
+D:\API\Nguyễn Văn Minh\MODEL\bin\Debug\net6.0\MODEL.deps.json
+D:\API\Nguyễn Văn Minh\MODEL\bin\Debug\net6.0\MODEL.runtimeconfig.json
+D:\API\Nguyễn Văn Minh\MODEL\bin\Debug\net6.0\MODEL.dll
+D:\API\Nguyễn Văn Minh\MODEL\bin\Debug\net6.0\MODEL.pdb
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.csproj.AssemblyReference.cache
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfoInputs.cache
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.AssemblyInfo.cs
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.csproj.CoreCompileInputs.cache
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.dll
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\refint\MODEL.dll
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.pdb
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\MODEL.genruntimeconfig.cache
+D:\API\Nguyễn Văn Minh\MODEL\obj\Debug\net6.0\ref\MODEL.dll

@@ -1,0 +1,51 @@
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\MODEL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\DAL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\bin\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\DAL.dll
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\DAL.pdb
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\MODEL.dll
+D:\API\Nguyễn Văn Minh\DAL\bin\Debug\net6.0\MODEL.pdb
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.dll
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.pdb
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\API\Nguyễn Văn Minh\DAL\obj\Debug\net6.0\ref\DAL.dll

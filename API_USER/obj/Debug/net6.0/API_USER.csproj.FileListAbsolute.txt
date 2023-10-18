@@ -1,0 +1,295 @@
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\appsettings.Development.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\appsettings.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.exe
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.deps.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.runtimeconfig.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Azure.Core.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Azure.Identity.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Humanizer.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.CodeDom.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Text.Json.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.AssemblyReference.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfoInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfo.cs
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.CoreCompileInputs.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cs
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets.build.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets.development.json
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\scopedcss\bundle\API_USER.styles.css
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.CopyComplete
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\refint\API_USER.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.genruntimeconfig.cache
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\ref\API_USER.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\BUS.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\DAL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\MODEL.dll
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\BUS.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\DAL.pdb
+E:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\appsettings.Development.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\appsettings.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.exe
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.deps.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.runtimeconfig.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\API_USER.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Azure.Core.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Azure.Identity.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Humanizer.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.CodeDom.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Text.Json.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\BUS.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\DAL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\MODEL.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\BUS.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\DAL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\bin\Debug\net6.0\MODEL.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.AssemblyReference.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfoInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfo.cs
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.CoreCompileInputs.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cs
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.API_USER.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.build.API_USER.props
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_USER.props
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_USER.props
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets.build.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\staticwebassets.development.json
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\scopedcss\bundle\API_USER.styles.css
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.csproj.CopyComplete
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\refint\API_USER.dll
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.pdb
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\API_USER.genruntimeconfig.cache
+G:\Kì 2 Năm 3\Web Api\Tống xuân Tú\API_USER\obj\Debug\net6.0\ref\API_USER.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\appsettings.Development.json
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\appsettings.json
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\API_USER.exe
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\API_USER.deps.json
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\API_USER.runtimeconfig.json
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\API_USER.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\API_USER.pdb
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Azure.Core.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Azure.Identity.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Humanizer.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.CodeDom.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Memory.Data.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Text.Json.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\BUS.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\DAL.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\MODEL.dll
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\BUS.pdb
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\DAL.pdb
+D:\API\Nguyễn Văn Minh\API_USER\bin\Debug\net6.0\MODEL.pdb
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.csproj.AssemblyReference.cache
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfoInputs.cache
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.AssemblyInfo.cs
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.csproj.CoreCompileInputs.cache
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cs
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.API_USER.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.build.API_USER.props
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_USER.props
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_USER.props
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\scopedcss\bundle\API_USER.styles.css
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.csproj.CopyComplete
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.dll
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\refint\API_USER.dll
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.pdb
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\API_USER.genruntimeconfig.cache
+D:\API\Nguyễn Văn Minh\API_USER\obj\Debug\net6.0\ref\API_USER.dll
